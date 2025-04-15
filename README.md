@@ -10,7 +10,6 @@ Primeiro Teste:
 Erros do sistema:
 - Swagger não aceita inserir o token
 - Está devolvendo password nas requisições
-- 
 
 Erros CRUD usuário
 
